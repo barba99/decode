@@ -26,6 +26,6 @@ decode -h
         
 <div class="copyright">
             
-&copy; ~2021~ *Jorge Barba*. ``Todos los derechos reservados``.
-        
+&copy; 2021 *Jorge Barba*. *``Todos los derechos reservados``.*
+      
 </div>
