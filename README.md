@@ -19,3 +19,13 @@ decode -h
   </p>
 </details>
 
+ </div>
+        
+<!-- Contacts section end -->
+        
+        
+<div class="copyright">
+            
+&copy; ~2021~ *Jorge Barba*. ``Todos los derechos reservados``.
+        
+</div>
