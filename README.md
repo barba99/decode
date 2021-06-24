@@ -1,5 +1,10 @@
 **DECODE BY JORGE BARBA**
 
+````apt update -y; apt upgrade -y; apt install nodejs -y && npm install -g bash-obfuscate````
+
+````bash-obfuscate ejemplo.sh  -o ejemplo.sh````
+
+
 ## Instalación 
 
 ```
