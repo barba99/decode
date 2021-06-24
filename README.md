@@ -12,6 +12,60 @@ wget https://www.dropbox.com/s/ktw99sv3c4fisuj/decode -O /data/data/com.termux/f
 ```
 decode -h
 ```
+</p>
+  <table border="1">
+   <caption>
+    Opciones
+   </caption>
+   <tr>
+    <th>
+     comando
+    </th>
+    <th>
+     Descripcion
+    </th>
+   </tr>
+   <tr>
+    <td>
+     -h
+    </td>
+    <td>
+     ayuda 
+    </td>
+   </tr>
+   <tr>
+    <td>
+     -i 
+    </td>
+    <td>
+      archivo para desofuscación
+    </td>
+   </tr>
+   <tr>
+    <td>
+     -o
+    </td>
+    <td>
+     Guardar archivo de salida
+    </td>
+   </tr>
+   <tr>
+    <td>
+     -c
+    </td>
+    <td>
+     Información del contacto
+    </td>
+   </tr>
+   <tr>
+    <td>
+     -v
+    </td>
+    <td>
+     Version
+    </td>
+   </tr>
+  </table>
 
 <details>
   <summary><b>CONTÁCTAME</b></summary><br>
